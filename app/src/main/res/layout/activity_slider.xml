@@ -12,7 +12,7 @@
         android:textStyle="bold"
         android:textColor="@color/purple_700"
         android:textSize="25dp"
-        android:text="Jaki"
+        android:text="Lena"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         tools:ignore="MissingConstraints" />

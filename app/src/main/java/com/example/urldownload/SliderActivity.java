@@ -19,10 +19,10 @@ public class SliderActivity extends AppCompatActivity {
 
     ViewPager viewPager2;
     int[] images = {R.drawable.img1,R.drawable.img2};
-    String [] header = {"Selamat Datang di Jaki","Bayar ini itu, Banyak Untungnya"};
+    String [] header = {"Welcome to Lena","Organize photos"};
     String [] dec    = {
-            "Aplikasi layanan Tiket yang siap bikin transaksi kamu jadi lebih mudah, aman dan menyenangkan",
-            "Sambil nunggu team mu tading, Bisa juga ya! nikmati objek wisata sekitarmu"
+            "Aplikasi Download Manager request.setMimeType(image/jpeg)",
+            "Simpan gambar favoritmu dengan sekali klik!"
     };
     ViewPagerAdepter adepter;
     CircleIndicator indicator;
